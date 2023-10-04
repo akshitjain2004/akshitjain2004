@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitjain2004&label=Profile%20views&color=0e75b6&style=flat" alt="akshitjain2004" /> </p>
 
@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitjain2004&show_icons=true&locale=en" alt="akshitjain2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjain2004&" alt="akshitjain2004" /></p>
