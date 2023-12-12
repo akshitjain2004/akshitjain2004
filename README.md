@@ -35,6 +35,7 @@
 
 <br/>
 <hr/>
+![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitjain2004&theme=shadow_blue&show_icons=true)
 
 
 <br/>
