@@ -36,7 +36,11 @@
 <br/>
 <hr/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitjain2004&show_icons=true&locale=en&layout=compact" alt="akshitjain2004" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitjain2004&show_icons=true&locale=en" alt="akshitjain2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjain2004&" alt="akshitjain2004" /></p>
 <hr/>
 
 <br/>
